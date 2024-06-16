@@ -1,0 +1,4 @@
+0.35 Wannabe
+0.32 BusinessCasual
+0.25 Suit
+0.09 Sporty

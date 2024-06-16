@@ -1,0 +1,3 @@
+0.55 Wannabe
+0.35 Sporty
+0.10 Suit
