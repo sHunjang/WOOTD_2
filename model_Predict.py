@@ -2,7 +2,7 @@ from ultralytics import YOLO
 
 
 # Load YOLO Model best.pt Path
-Load_Model_Path = 'Train_Result/train18/weights/best.pt'
+Load_Model_Path = 'Train_Result/train/weights/best.pt'
 
 model = YOLO(Load_Model_Path)
 
