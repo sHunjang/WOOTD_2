@@ -21,5 +21,5 @@ Insta_Images_Path = 'Insta_images'
 Predict_Result_Path = 'Predict_Result'
 
 # Predict Model
-result_Combination = model.predict(source=Top_Bottom_Combination, save=True, save_txt=True, project=Predict_Result_Path, device='mps')
+result_Combination = model.predict(source=Predict_Images_Path, save=True, save_txt=True, project=Predict_Result_Path, device='mps')
 # result_Combination = model.predict(source=One_Image_Path, device='mps')
